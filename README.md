@@ -18,7 +18,7 @@ the Purifier class to add your own purifier functions.
 
 Install the module through [composer](http://getcomposer.org):
 
-	composer require seppzzz/htmlpurifier
+	composer require seppzzz/htmlpurifier "dev-main"
 	composer update
 
 ## Usage
